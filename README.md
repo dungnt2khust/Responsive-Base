@@ -1,3 +1,3 @@
 # Responsive-Base  
-This is a skeleton css to organize and design a website  
-It's so useful for responsive website
+This is a css skeleton for organizing and designing a website  
+It's very useful for responsive website
